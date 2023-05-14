@@ -1,12 +1,12 @@
 #!/usr/bin/python3
-"""createsa a State class."""
+"""Defines the State class."""
 from models.base_model import BaseModel
 
 
 class State(BaseModel):
-    """intializes a stat with the following attributes:
+    """Represent a state.
 
-    
+    Attributes:
         name (str): The name of the state.
     """
 

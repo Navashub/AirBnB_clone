@@ -1,12 +1,12 @@
 #!/usr/bin/python3
-"""ctreates the Place class."""
+"""Defines the Place class."""
 from models.base_model import BaseModel
 
 
 class Place(BaseModel):
-    """initializes a location or place with the following attributes
+    """Represent a place.
 
-    
+    Attributes:
         city_id (str): The City id.
         user_id (str): The User id.
         name (str): The name of the place.
