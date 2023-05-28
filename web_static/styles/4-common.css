@@ -1,9 +1,10 @@
+/*body style*/
 body{
 	margin: 0;
-    padding: 0;
-    color: #484848;
-    font-size: 14px;
-  font-family: Circular, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    	padding: 0;
+    	color: #484848;
+    	font-size: 14px;
+  	font-family: Circular, "Helvetica Neue", Helvetica, Arial, sans-serif;
  }
 
 .container{
@@ -11,4 +12,8 @@ body{
     max-width: 1000px;
     margin-top: 30px;
     margin-bottom: 30px;
+}
+
+strong {
+	font-weight: bold;
 }
