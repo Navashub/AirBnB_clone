@@ -21,7 +21,3 @@ Retrieve an object from a file, a database etc…
 Do operations on objects (count, compute stats, etc…)
 Update attributes of an object
 Destroy an object
-
-Contributors
-	- [Arnold Nduby](https://github.com/Arnold-Ndubi/AirBnB_clone)
-	- [Navas Kipkemoi](https://github.com/Navashub)
